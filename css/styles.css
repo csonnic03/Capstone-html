@@ -28,10 +28,10 @@ footer{
   text-align: center;
 }
 .footer{
-  position: relative;
-  bottom: -254px;
-  left: -230px;
-  width: 97.05rem;
+  position: relative !important;
+  bottom: -254px !important;
+  left: -230px !important;
+  width: 97.05rem !important;
 }
 /*Image On-Hover*/
 .swap img:last-child{display:none}
