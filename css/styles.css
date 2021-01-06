@@ -27,6 +27,12 @@ footer{
   color: white;
   text-align: center;
 }
+.footer{
+  position: relative;
+  bottom: -254px;
+  left: -230px;
+  width: 97.05rem;
+}
 /*Image On-Hover*/
 .swap img:last-child{display:none}
 .swap:hover img:first-child{display:none}
