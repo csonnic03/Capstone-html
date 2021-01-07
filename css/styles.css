@@ -5,6 +5,10 @@ body{
   background-attachment: fixed  !important;
   background-size: cover  !important;
 }
+/*Order Form*/
+#order-form div{
+  margin-bottom:15px;
+}
 
 /*Logo ID*/
 #logo {
@@ -20,7 +24,11 @@ body{
   position: relative !important;
   top: 100px !important;
 }
-
+#p{
+  font-size: 24px;
+  color: red;
+  font-weight: bold;
+}
 /*Footer*/
 footer{
   background-color: black;
@@ -29,7 +37,7 @@ footer{
 }
 .footer{
   position: relative !important;
-  bottom: -254px !important;
+  bottom: -240px !important;
   left: -230px !important;
   width: 97.05rem !important;
 }
